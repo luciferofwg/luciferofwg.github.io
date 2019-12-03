@@ -1,9 +1,9 @@
 # Site settings
-title: 搬砖的小青年
+title: You Blog
 SEOTitle: 搬砖的小青年的博客 | Knowledge is productivity
 header-img: img/page/home-bg.jpg
 email: luciferofwg@gmail.com
-description: "You Blog."
+description: "这是个描述."
 keyword: "搬砖的小青年,luciferofwg"
 url: "http://luciferofwg.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'

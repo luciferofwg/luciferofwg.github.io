@@ -12,7 +12,7 @@ github_repo: "https://github.com/luciferofwg/luciferofwg.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "I am a slow walker,but I nerver walk back."
-sidebar-avatar: /img/luciferofwg.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/page/luciferofwg.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 

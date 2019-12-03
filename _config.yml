@@ -1,7 +1,7 @@
 # Site settings
 title: 砖厂
 SEOTitle: 板砖的小青年的博客 | Knowledge is productivity
-header-img: img/post-bg-desk.jpg
+header-img: img/page/home-bg.jpg
 email: luciferofwg@gmail.com
 description: "You Blog."
 keyword: "搬砖的小青年,luciferofwg"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/luciferofwg/luciferofwg.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "I am a slow walker,but I nerver walk back."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/luciferofwg.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -60,7 +60,7 @@ kramdown:
 # disqus_username: qiubaiying
 
 # Gitalk
-#gitalk:
+gitalk:
 #  enable: true    #是否开启Gitalk评论
 #  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
 #  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
@@ -96,7 +96,7 @@ service-worker: true
 
 
 # Friends
-#friends: [
+friends: [
 #    {
 #        title: "WY",
 #        href: "http://zhengwuyang.com"
@@ -110,4 +110,4 @@ service-worker: true
 #        title: "Apple Developer",
 #        href: "https://developer.apple.com/"
 #    }
-#]
+]
